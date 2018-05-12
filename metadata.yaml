@@ -1,0 +1,29 @@
+_repo: The-Nine-Lives-of-A-Cat--A-Tale-of-Wonder_23318
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23318-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bennett, Charles H. (Charles Henry)
+    alias: Bennett, Charles Henry
+    birthdate: 1829
+    deathdate: 1867
+    gutenberg_agent_id: '24951'
+    url: http://www.gutenberg.org/2009/agents/24951
+description: ''
+gutenberg_issued: '2007-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Juvenile poetry'
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+title: 'The Nine Lives of A Cat: A Tale of Wonder'
+url: http://www.gutenberg.org/ebooks/23318
